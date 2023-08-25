@@ -30,6 +30,7 @@ function Homescreen() {
             "https://api.themoviedb.org/3/discover/movie?api_key=b37f3ca0ea1516c056a240d6ba783991&with_genres=10749"
           }
           type="Romantic"
+          className="mb-6"
         />
       </div>
     </div>
